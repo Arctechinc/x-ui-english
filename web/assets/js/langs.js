@@ -9,6 +9,11 @@ supportLangs = [
         value : "pr",
         icon : "pr"
     },
+    {
+        name : "Bengali",
+        value : "bn",
+        icon : "bn"
+    },
 ]
 
 function getLang(){
